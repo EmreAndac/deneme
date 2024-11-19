@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R060Q56EUjVsw94cJ+nuDmt9KbArCCgsX/epz5DWREw=",
+  "Source": "WebApiMin",
+  "BasePath": "_content/WebApiMin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
